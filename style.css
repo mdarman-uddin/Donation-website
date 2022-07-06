@@ -1,7 +1,7 @@
-body{font-family:   
-    font-family: 'PT Sans', sans-serif;
-    font-family: 'Ubuntu', sans-serif;
+body{font-family:'PT Sans', sans-serif;
+     font-family: 'Ubuntu', sans-serif;
 }
+
 .banner-heading{
     font-size: 40px;
     font-weight: bold;
@@ -78,23 +78,11 @@ body{font-family:
     font-size: x-large;
     
 }
-.taka-input{
-    width: 200px;
-    align-content: center;
-    margin-left: 600px;
-}
-#title-amount{
-    width: 100%;
-    font-size: medium;
-    font-weight: 200;
-    text-align :center;
-    margin-top: 50px;
-}
-.line{
-    width: 70%;
-    align :center
-}
 
+.box2{
+    text-align: center;
+    width 50%;
+}
 .title3{
     font-size: 40px;
     font-weight: bold;
